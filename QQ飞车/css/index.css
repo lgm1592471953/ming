@@ -1,0 +1,86 @@
+.main .m_1{height: 1026px;width: 100%;position: relative;}
+.main .m_1 .m_1_pic{background: url(../images/oth_bg.png) no-repeat ;width: 1920px;height: 650px;position: absolute;left: -120px;top: 0;}
+.main .m_1 .m_1_1{height:395px ;background: url(../images/bg1.jpg) no-repeat center top;}
+.main .m_1 .m_1_2{height: 631px;background: url(../images/bg2.jpg) no-repeat center top;}
+.main .m_1 .m_1_2 .time p{text-align: center;font-family: "微软雅黑 Bold";font-size: 24px;line-height: 32px;height: 32px;padding-top: 267px;color: #cfc6b4;}
+.main .m_1 .m_1_2 .text1{width: 219px;height: 59px;float: left;text-align: center;padding-top: 7px;margin:77px 0 0 24.8%;background: url(../images/icon.png) 0 -102px;}
+.main .m_1 .m_1_2 .text1 .text1_1{font-family: "微软雅黑 Bold";font-size: 24px;color: #000;font-weight: bold;}
+.main .m_1 .m_1_2 .text1 .text1_2{font-family: "黑体";font-size: 14px;color: #000;font-weight: bold;}
+
+.main .m_1 .m_1_2 .text2{width: 347px;height: 98px;float: left;margin: 62px 25px 0;background: url(../images/icon.png);position: relative;}
+.main .m_1 .m_1_2 .text2 a{font-family: "黑体";font-size: 37px;line-height: 98px;height: 98px;margin-left: 97px;color: #000;font-weight: bold;;}
+.main .m_1 .m_1_2 .text2 .yq{position: absolute;left: -35px ;bottom: -70px;font-family: "黑体";font-size: 20px;color: #cac0ac;}
+.main .m_1 .m_1_2 .text3{width: 219px;height: 59px;float: left;text-align: center;padding-top: 7px;margin-top:77px ;background: url(../images/icon.png) 0 -102px;}
+.main .m_1 .m_1_2 .text3 .text1_1{font-family: "微软雅黑 Bold";font-size: 24px;color: #000;font-weight: bold;}
+.main .m_1 .m_1_2 .text3 .text1_2{font-family: "黑体";font-size: 14px;color: #000;font-weight: bold;}
+
+.main .m_2{width:100%;height:431px;background: url(../images/bg3.jpg) center top;text-align: center;padding-top: 90px;position: relative;}
+.main .m_2 .m_2_1 {width: 350px;height: 60px;margin-left: 39.5%;font-family: "黑体";font-size: 26px;line-height: 60px;height: 60px;font-weight: bold;background: url(../images/icon.png) 0px -796px;padding-left: 8px;}
+.main .m_2 .m_2_1 a{color: #000;}
+.main .m_2  p{font-family: "微软雅黑";font-size: 19px;line-height: 26px;color: #888;padding: 0 360px;margin-top: 16px;}
+.main .m_2 .m_2_pic{width:1080px;height:240px;background: url(../images/predict_pic.png) no-repeat ;position: absolute;left: 292px;top: 224px;}
+.main .m_3{width:100%;height: 858px;background: url(../images/bg4.jpg) no-repeat center top;}
+.main .m_3 .conten{width: 1080px;margin:  0 auto;}
+.main .m_3 .conten p{text-align: center;font-family: "微软雅黑";font-size: 19px;line-height: 25px;padding-top: 97px;color: #888;}
+.main .m_3 .conten .top .left{margin-left: 40px;float: left;}
+.main .m_3 .conten .top .right{float: left;}
+.main .m_3 .conten .bot .one{width: 324px;float: left;}
+.main .m_3 .conten .bot .one li{font-family: "微软雅黑";font-size: 12px;color: #888;background: url(../images/fk_bg_03.jpg) no-repeat left center;padding-left: 22px;}
+.main .m_3 .conten .bot .two{width: 194px;float: left;}
+.main .m_3 .conten .bot .two li{font-family: "微软雅黑";font-size: 12px;color: #888;background: url(../images/fk_bg_03.jpg) no-repeat left center;padding-left: 22px;}
+
+.main .m_4{width:100%;height: 577px;background: url(../images/bg5.jpg) no-repeat center top;}
+.main .m_4 .inner{width: 1080px;margin: 0 auto;}
+.main .m_4 .inner .top p{text-align: center;font-family: "微软雅黑";font-size: 19px;line-height: 26px;padding-top: 96px;color: #888;}
+.main .m_4 .inner .cen{margin-left: 40px;}
+.main .m_4 .inner .bot ul{margin:15px 0 0  70px;}
+.main .m_4 .inner .bot li .tou{width:238px;float: left;font-family: "微软雅黑";font-size: 19px;color: #888;padding-left: 80px;}
+.main .m_4 .inner .bot li{width:238px;float: left;font-family: "微软雅黑";font-size: 19px;color: #888;padding-left: 95px;}
+/*地址*/
+.main .m_5{height: 544px;background: url(../images/bg6.jpg) no-repeat center top;}
+.main .m_5 .inner{width: 1080px;margin: 0 auto;padding-top: 92px;}
+.main .m_5 .inner .title{width: 250px;height: 60px;font-size: 26px;line-height: 60px;height: 60px;font-weight: bold;background: url(../images/icon.png) 0px -732px;margin-left: 417px;padding-left: 29px;}
+.main .m_5 .inner .title a{color: #000;}
+.main .m_5 .inner .left{margin: 29px 30px 0 70px;float: left;}
+.main .m_5 .inner .right{width: 530px;float: left;margin-top: 29px;}
+.main .m_5 .inner .right .top{height: 99px;position: relative;padding-left: 40px;}
+.main .m_5 .inner .right .top h3{font-family: "微软雅黑";font-size: 25px;color: #e9d9aa;}
+.main .m_5 .inner .right .top p{font-family: "微软雅黑";font-size: 17px;color: #888;line-height: 46px;height: 46px;}
+.main .m_5 .inner .right .top .t_pic{width: 28px;height: 30px;position: absolute;left: 0;top: 0;background: url(../images/icon.png) -226px -100px;}
+.main .m_5 .inner .right .cen{height: 148px;padding-left: 40px;position: relative;}
+.main .m_5 .inner .right .cen h3{font-family: "微软雅黑";font-size: 25px;color: #e9d9aa;margin-bottom: 16px;}
+.main .m_5 .inner .right .cen li{font-family: "微软雅黑";font-size: 17px;color: #888;background: url(../images/fk_bg_03.jpg) no-repeat left center;padding-left: 16px;line-height: 26px;}
+.main .m_5 .inner .right .cen .c_pic{width: 30px;height: 28px;position: absolute;left: 0;top: 0;background: url(../images/icon.png) -263px -102px;}
+
+.main .m_5 .inner .right .bot{height: 99px;position: relative;padding-left: 40px;}
+.main .m_5 .inner .right .bot h3{font-family: "微软雅黑";font-size: 25px;color: #e9d9aa;}
+.main .m_5 .inner .right .bot p{font-family: "微软雅黑";font-size: 17px;color: #888;line-height: 46px;height: 46px;}
+.main .m_5 .inner .right .bot .b_pic{width: 27px;height: 29px;background:#fff;position: absolute;left: 0;top: 0;background: url(../images/icon.png) -298px -102px;}
+
+.main .m_6{width:100%;height: 1020px;background: url(../images/bg7.jpg) center top;}
+.main .m_6 .inner{width: 1080px;margin: 0 auto;padding-top: 120px;}
+.main .m_6 .one{padding-left: 69px;margin-bottom: 42px;}
+.main .m_6 .one strong{font-family: "微软雅黑";font-size: 17px;color: #888;}
+.main .m_6 .one span{font-family: "微软雅黑";font-size: 15px;font-weight: normal;color: #888;}
+.main .m_6 .two{padding-left: 69px;margin-bottom: 42px;}
+.main .m_6 .two strong{font-family: "微软雅黑";font-size: 17px;color: #888;}
+.main .m_6 .two span{font-family: "微软雅黑";font-size: 15px;font-weight: normal;color: #888;margin-bottom: 42px;}
+/*侧面点击栏*/
+
+.cemian .yi{width: 135px;height: 107px;position: fixed;right: 0;bottom: 674px;background: url(../images/icon.png) 0 -238px;padding-top: 40px;}
+.cemian .yi a{font-family: "黑体";font-size: 31px;color: #000;font-weight: bold;margin-left: 39px;}
+.cemian .er {width: 70px;height: 80px;position: fixed;right: 32px;bottom: 589px;background: url(../images/icon.png)  -146px -237px;}
+.cemian .er a{font-family: "微软雅黑";font-size: 17px;color: #bdab71;}
+.cemian .san {width: 70px;height: 80px;position: fixed;right: 32px;bottom: 499px;background: url(../images/icon.png)  -146px -237px;}
+.cemian .san a{font-family: "微软雅黑";font-size: 17px;color: #bdab71;}
+.cemian .si {width: 70px;height: 80px;position: fixed;right: 32px;bottom: 409px;background: url(../images/icon.png)  -146px -237px;}
+.cemian .si a{font-family: "微软雅黑";font-size: 17px;color: #bdab71;}
+.cemian .wu {width: 70px;height: 80px;position: fixed;right: 32px;bottom: 319px;background: url(../images/icon.png)  -146px -237px;}
+.cemian .wu a{font-family: "微软雅黑";font-size: 17px;color: #bdab71;}
+.cemian .liu {width: 70px;height: 80px;position: fixed;right: 32px;bottom: 229px;background: url(../images/icon.png)  -146px -237px;}
+.cemian .liu a{font-family: "微软雅黑";font-size: 17px;color: #bdab71;}
+.cemian .qi{width: 39px;height: 44px;position: fixed;right: 48px;bottom: 180px;background: url(../images/icon.png) -279px -167px;}
+.last{position: fixed;right: 0;bottom: 0;}
+
+
+
